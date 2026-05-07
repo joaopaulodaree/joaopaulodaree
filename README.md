@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou João Paulo 👋
 
-<!--
-**joaopaulodaree/joaopaulodaree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação pela Universidade Federal de Lavras, e desenvolvedor com foco em **desenvolvimento Full-Stack** de aplicações práticas com IA.
 
-Here are some ideas to get you started:
+## 📌 Sobre meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Neste GitHub, compartilho projetos acadêmicos, pessoais e práticos voltados para:
+
+- Aplicações web
+- Integrações com APIs
+- Sistemas full stack
+- Estudos de tecnologias
+- Projetos com automação e IA
+- Experimentos para evolução profissional
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/joaopaulodare
+- E-mail: joaopaulodare@gmail.com
+
+---
